@@ -4,3 +4,5 @@ if first_number % 2 == 0:
 
 if first_number % 2 != 0:
     print('This is an odd number')
+
+# rewrite this using if-else
