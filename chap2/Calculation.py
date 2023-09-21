@@ -12,3 +12,6 @@ print("Multiplication of: ", num1, "and", num2, "is", multiply)
 print("Division of: ", num1, "and", num2, "is", divide)
 print("Floor division of: ", num1, "and", num2, "is", floor_division)
 print("Exponential of: ", num1, "and", num2, "is", exponential)
+
+# rewrite this with one print function
+# why are u naming your files like java ??
