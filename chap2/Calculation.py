@@ -6,12 +6,12 @@ multiply = num1 * num2
 divide = num1 / num2
 floor_division = num1 // num2
 exponential = num1 ** num2
-print("Addition of: ", num1, "and", num2, "is", answer)
-print("Subtraction of: ", num1, "and", num2, "is", difference)
-print("Multiplication of: ", num1, "and", num2, "is", multiply)
-print("Division of: ", num1, "and", num2, "is", divide)
-print("Floor division of: ", num1, "and", num2, "is", floor_division)
-print("Exponential of: ", num1, "and", num2, "is", exponential)
+print("addition_of: ", answer, "\n"
+      "subtraction_of: ", difference, "\n"
+      "multiplication_of: ", multiply, "\n"
+      "division_of: ", divide, "\n"
+      "floor_division of: ", floor_division,"\n"
+      "exponential of: ", exponential)
 
 # rewrite this with one print function
 # why are u naming your files like java ??
