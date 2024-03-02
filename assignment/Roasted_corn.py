@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 number = [15, 20, 25, 20, 10, 5]
 
 
@@ -47,17 +47,16 @@ number = [15, 20, 25, 20, 10, 5]
 # print(multiply_list(number))
 
 
-def duplicate_list(number):
-    result = []
-    for count in number:
-        if count not in result:
-            result.append(count)
-    return result
-
-
-print(duplicate_list(number))
-=======
-number = [15, 20, 25, 20, 10, 5]
+# def duplicate_list(number):
+#     result = []
+#     for count in number:
+#         if count not in result:
+#             result.append(count)
+#     return result
+#
+#
+# print(duplicate_list(number))
+# number = [15, 20, 25, 20, 10, 5]
 
 
 # def largest_number(number):
@@ -105,13 +104,12 @@ number = [15, 20, 25, 20, 10, 5]
 # print(multiply_list(number))
 
 
-def duplicate_list(number):
-    result = []
-    for count in number:
-        if count not in result:
-            result.append(count)
-    return result
-
-
-print(duplicate_list(number))
->>>>>>> 4cae69ed4c208ef345a83b1bc2d387f34866cd69
+# def duplicate_list(number):
+#     result = []
+#     for count in number:
+#         if count not in result:
+#             result.append(count)
+#     return result
+#
+#
+# print(duplicate_list(number))
