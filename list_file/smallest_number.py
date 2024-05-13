@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 number = [15, 20, 25, 20, 10, 5]
 
 
@@ -12,7 +12,6 @@ def smallest_number(number):
 
 print(smallest_number(number))
 
-=======
 number = [15, 20, 25, 20, 10, 5]
 
 
@@ -26,4 +25,4 @@ def smallest_number(number):
 
 print(smallest_number(number))
 
->>>>>>> 4cae69ed4c208ef345a83b1bc2d387f34866cd69
+

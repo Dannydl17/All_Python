@@ -7,8 +7,7 @@
 #     "X": 10,
 #     "XX": 20
 # }
-# for k, v in roman_number.items():  ####To unpack a dictionary
-#     print(f"{k}{v}", end='\n')
+#c
 # print(roman_number.items())  ### Gives us the keys nd their values
 # print(roman_number['II'])
 # print(roman_number.get('v', 'key not found'))

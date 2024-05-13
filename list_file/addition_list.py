@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 number = [15, 20, 25, 20, 10, 5]
 
 
@@ -11,8 +11,7 @@ def sum_of_list(number):
 
 
 print(sum_of_list(number))
-=======
-number = [15, 20, 25, 20, 10, 5]
+ber = [15, 20, 25, 20, 10, 5]
 
 
 def sum_of_list(number):
@@ -24,4 +23,3 @@ def sum_of_list(number):
 
 
 print(sum_of_list(number))
->>>>>>> 4cae69ed4c208ef345a83b1bc2d387f34866cd69
